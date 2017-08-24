@@ -1,0 +1,15 @@
+{
+  "name": "wtd-2017-warm-up",
+  "version": "1.0.0",
+  "description": "Warm up project for WHAT THE DATA!? 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Peter Sorowka",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^2.12.0"
+  }
+}
